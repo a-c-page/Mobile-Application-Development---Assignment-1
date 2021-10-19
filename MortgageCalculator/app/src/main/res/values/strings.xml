@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mortgage Calculator</string>
+    <string name="principal_edit">Enter $</string>
+    <string name="rate_edit">Enter %</string>
+    <string name="term_edit">Enter # of Years</string>
+    <string name="principal_text">Principal Amount ($)</string>
+    <string name="rate_text">Interest Rate (%)</string>
+    <string name="term_text">Mortgage Term (Years)</string>
+    <string name="emi_text">EMI (Monthly Installment): </string>
+    <string name="instructions">Fill out all fields and the value will auto-calculate.</string>
+</resources>
